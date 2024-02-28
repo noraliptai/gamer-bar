@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "name": "Dragon's Kiss",
+    "type": "Long drink",
+    "base": "Dragonfruit-infused Vodka",
+    "ingredients": [
+      "Dragonfruit juice",
+      "Lime juice",
+      "Simple syrup"
+    ],
+    "special-ingredient": "Fiery Breath Elixir",
+    "price": 8.99
+  },
+  {
+    "id": 2,
+    "name": "Elven Elixir",
+    "type": "Long drink",
+    "base": "Elderflower Gin",
+    "ingredients": [
+      "Cucumber slices",
+      "Mint leaves",
+      "Lemonade"
+    ],
+    "special-ingredient": "Enchanted Elderflower Essence",
+    "price": 9.99
+  },
+  {
+    "id": 3,
+    "name": "Sorcerer's Brew",
+    "type": "Shot",
+    "base": "Spiced Rum",
+    "ingredients": [
+      "Pineapple juice",
+      "Coconut cream",
+      "Cinnamon syrup"
+    ],
+    "special-ingredient": "Mystical Spice Blend",
+    "price": 6.99
+  },
+  {
+    "id": 4,
+    "name": "Frost Giant Frostbite",
+    "type": "Shot",
+    "base": "Peppermint Schnapps",
+    "ingredients": [
+      "White chocolate liqueur",
+      "Cream",
+      "Crushed ice"
+    ],
+    "special-ingredient": "Chilled Yeti Essence",
+    "price": 7.49
+  },
+  {
+    "id": 5,
+    "name": "Wizard's Whirlwind",
+    "type": "Long drink",
+    "base": "Blue Curacao",
+    "ingredients": [
+      "Lemonade",
+      "Blackberry syrup",
+      "Edible glitter"
+    ],
+    "special-ingredient": "Whimsical Wizard Dust",
+    "price": 10.49
+  },
+  {
+    "id": 6,
+    "name": "Mermaid's Melody",
+    "type": "Short drink",
+    "base": "Coconut Rum",
+    "ingredients": [
+      "Pineapple juice",
+      "Blue Curacao",
+      "Coconut cream"
+    ],
+    "special-ingredient": "Siren's Serenade Syrup",
+    "price": 8.99
+  },
+  {
+    "id": 7,
+    "name": "Dwarven Dynamite",
+    "type": "Shot",
+    "base": "Whiskey",
+    "ingredients": [
+      "Honey",
+      "Ginger beer",
+      "Lemon wedge"
+    ],
+    "special-ingredient": "Explosive Ember Essence",
+    "price": 6.99
+  },
+  {
+    "id": 8,
+    "name": "Phoenix Flame Fizz",
+    "type": "Long drink",
+    "base": "Tequila",
+    "ingredients": [
+      "Blood orange juice",
+      "Agave syrup",
+      "Club soda"
+    ],
+    "special-ingredient": "Resurrected Phoenix Ember",
+    "price": 9.99
+  },
+  {
+    "id": 9,
+    "name": "Goblin Grog",
+    "type": "Short drink",
+    "base": "Dark Rum",
+    "ingredients": [
+      "Pineapple juice",
+      "Ginger syrup",
+      "Angostura bitters"
+    ],
+    "special-ingredient": "Mischief-Maker's Elixir",
+    "price": 7.49
+  },
+  {
+    "id": 10,
+    "name": "Enchantress Euphoria",
+    "type": "Shot",
+    "base": "Citrus Vodka",
+    "ingredients": [
+      "Triple sec",
+      "Cranberry juice",
+      "Lime wedge"
+    ],
+    "special-ingredient": "Sparkling Stardust",
+    "price": 6.49
+  },
+  {
+    "id": 11,
+    "name": "Centaur's Charge",
+    "type": "Long drink",
+    "base": "Bourbon",
+    "ingredients": [
+      "Maple syrup",
+      "Orange bitters",
+      "Club soda"
+    ],
+    "special-ingredient": "Thundering Hoof Spice",
+    "price": 8.99
+  },
+  {
+    "id": 12,
+    "name": "Minotaur Mule",
+    "type": "Short drink",
+    "base": "Vodka",
+    "ingredients": [
+      "Ginger beer",
+      "Lime juice",
+      "Mint leaves"
+    ],
+    "special-ingredient": "Labyrinth Dust",
+    "price": 7.99
+  },
+  {
+    "id": 13,
+    "name": "Vampire's Velvet",
+    "type": "Shot",
+    "base": "Blackberry Liqueur",
+    "ingredients": [
+      "Cherry brandy",
+      "Cranberry juice",
+      "Dash of absinthe"
+    ],
+    "special-ingredient": "Eternal Nightshade Nectar",
+    "price": 6.99
+  },
+  {
+    "id": 14,
+    "name": "Satyr's Sangria",
+    "type": "Long drink",
+    "base": "Red Wine",
+    "ingredients": [
+      "Brandy",
+      "Orange slices",
+      "Mixed berries"
+    ],
+    "special-ingredient": "Pan's Paradise Potion",
+    "price": 9.49
+  },
+  {
+    "id": 15,
+    "name": "Fairy Fizz",
+    "type": "Short drink",
+    "base": "Gin",
+    "ingredients": [
+      "Elderflower tonic",
+      "Lemon twist",
+      "Edible flowers"
+    ],
+    "special-ingredient": "Whimsical Fairy Glitter",
+    "price": 8.49
+  },
+  {
+    "id": 16,
+    "name": "Orcish Onslaught",
+    "type": "Shot",
+    "base": "Dark Rum",
+    "ingredients": [
+      "Coffee liqueur",
+      "Cream",
+      "Chocolate shavings"
+    ],
+    "special-ingredient": "Raging Orc Roast",
+    "price": 6.99
+  },
+  {
+    "id": 17,
+    "name": "Nymph's Nectar",
+    "type": "Long drink",
+    "base": "Gin",
+    "ingredients": [
+      "Cucumber slices",
+      "Mint leaves",
+      "Lemonade"
+    ],
+    "special-ingredient": "Nectar of the Enchanted Nymph",
+    "price": 9.99
+  },
+  {
+    "id": 18,
+    "name": "Banshee's Bliss",
+    "type": "Short drink",
+    "base": "Vodka",
+    "ingredients": [
+      "Blueberry syrup",
+      "Lemonade",
+      "Club soda"
+    ],
+    "special-ingredient": "Wailing Banshee Blue",
+    "price": 8.99
+  },
+  {
+    "id": 19,
+    "name": "Gryphon's Grin",
+    "type": "Shot",
+    "base": "Whiskey",
+    "ingredients": [
+      "Honey",
+      "Lemon juice",
+      "Ginger syrup"
+    ],
+    "special-ingredient": "Feathered Gryphon Essence",
+    "price": 6.49
+  },
+  {
+    "name": "Gummi Bear Syrup",
+    "type": "Long drink",
+    "base": "Vodka",
+    "ingredients": [
+      "Berry juice",
+      "Lemon juice",
+      "Soda"
+    ],
+    "special-ingredient": "Gummi Bear Saliva",
+    "price": 5,
+    "id": 20
+  }
+]
